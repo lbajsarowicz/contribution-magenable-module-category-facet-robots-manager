@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <magenable_category_facet_robots_manager>
+            <general>
+                <enabled>0</enabled>
+                <ignore_params>p,product_list_order,product_list_dir,product_list_mode</ignore_params>
+                <meta_tag_content>NOINDEX,FOLLOW</meta_tag_content>
+            </general>
+        </magenable_category_facet_robots_manager>
+    </default>
+</config>
