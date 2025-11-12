@@ -1,6 +1,6 @@
 {
     "name": "magenable/module-category-facet-robots-manager",
-    "description": "This Magento 2 module provides the ability to add a noindex meta tag to categories pages with filters",
+    "description": "This Magento 2 module provides the ability to add a noindex meta tag to category pages with filters",
     "require": {
         "magento/framework": ">=102.0",
         "magenable/module-base": "*"
